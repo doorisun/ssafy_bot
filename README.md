@@ -14,5 +14,6 @@ this is an header
 * 빨강
   * 파랑
     * 노랑
+![]("https://github.com/doorisun/ssafy_bot/blob/master/ssum.JPG?raw=true")
   
 chatbot made by slack
